@@ -1,0 +1,156 @@
+{
+  "updated": "2026-10-26",
+  "summary": "Einziger US-Deal der Woche: **OPay** (19–21 USD). **Lycia** stieg zum Debüt kräftig, Anthropic-Prospekt weiter nicht öffentlich.",
+  "headline": "Kuratierter Überblick anstehender Börsengänge in den USA und Europa. Stand Montag (26. Oktober) — für die Woche ab 26. Oktober ist laut Renaissance Capital in den USA nur ein IPO angesetzt: die afrikanische Fintech-Plattform **OPay (OPAY)** will an der NYSE 16 Mio. ADS zu 19–21 USD platzieren (rund 320 Mio. USD, rund 4,2 Mrd. USD Marktwert). In der Vorwoche preiste **Lycia Therapeutics (LYCA)** ein aufgestocktes IPO am oberen Ende bei 18 USD (rund 317,5 Mio. USD) und eröffnete am 23. Oktober bei 28,55 USD. **Anthropic** hat Stand 23. Oktober weiterhin keinen öffentlichen S-1 eingereicht; laut Reuters (22. Oktober) hält das Unternehmen am Ziel eines Listings Mitte November fest, Renaissance Capital hält auch einen Start nach Thanksgiving für möglich, diskutiert wird eine Bewertung um 1,5 Bio. USD. **SK Hynix** hat am 23. Oktober die Prüfung eines US-IPO der Tochter **Solidigm** (kursierend bis rund 15 Mrd. USD) eingestellt. In Europa startet **N4 Group** (FitnessBoutique) am 26. Oktober an der Euronext Growth Paris (23,81 EUR je Aktie). **Nscale**, **SB Energy** und **Westinghouse** weiterhin ohne Preisspanne, KNDS bleibt verschoben. Aus Platzgründen (max. 10 Einträge) nicht mehr gelistet: TRex Bio (TRXB, seit 9. Oktober notiert), Accelevation (ACCV, seit 30. September notiert), Oura (seit 29. September verschoben, kein neuer Termin), Bamboo Insurance (verschoben), Discord (ohne Termin), Visma (auf 2027 verschoben). Nicht bestätigte Termine sind als erwartet gekennzeichnet.",
+  "ipos": [
+    {
+      "company": "Anthropic",
+      "symbol": "—",
+      "exchange": "Nasdaq (geplant)",
+      "region": "US",
+      "ipo_date": "",
+      "price_range": "Bewertung kursierend um 1,5 Bio. USD, bis 100 Mrd. USD Erlös",
+      "status": "expected",
+      "note": "**Stand 23. Oktober weiterhin kein öffentlicher Prospekt:** Laut Renaissance Capital deuten Berichte auf eine bevorstehende öffentliche S-1-Einreichung hin; eine Einreichung Ende Oktober passe zum Ziel eines Listings Mitte November, das Ausbleiben bis Freitag (23. Oktober) könne aber auch auf ein Debüt nach Thanksgiving hindeuten (der Prospekt muss mindestens 15 Tage vor einer Roadshow öffentlich sein). Laut Reuters (22. Oktober) hält Anthropic am möglichen Listing Mitte November fest, die formale Roadshow könnte in der Woche des 9. November starten; berichtet wurde auch, dass Dezember erwogen wird. Beim Investorentag am 14. Oktober nannte Anthropic laut Berichten für Q3 2026 rund 16,8 Mrd. USD Umsatz (nach rund 11,5–11,6 Mrd. USD in Q2) und bereinigte Profitabilität; seitdem diskutieren laut Reuters (15. Oktober) einige Investoren eine Bewertung um 1,5 Bio. USD statt rund 2 Bio. USD. Letzte private Bewertung: 965 Mrd. USD (Series H, Mai 2026). KI-Labor hinter Claude, Entwickler von Claude Code. Konfidentielle S-1-Einreichung seit Juni 2026, Konsortium um Goldman Sachs, JPMorgan und Morgan Stanley. Ticker, Preisspanne und Termin nicht offiziell bestätigt.",
+      "points": [
+        "Öffentlicher S-1 Stand 23. Oktober weiter nicht eingereicht",
+        "Reuters (22.10.): Ziel weiter Listing Mitte November, Roadshow ab Woche 9.11.",
+        "Bewertung diskutiert um **1,5 Bio. USD** statt rund 2 Bio. USD"
+      ]
+    },
+    {
+      "company": "OPay",
+      "symbol": "OPAY",
+      "exchange": "NYSE",
+      "region": "US",
+      "ipo_date": "",
+      "price_range": "19–21 USD je ADS, 16 Mio. ADS (rund 320 Mio. USD)",
+      "status": "expected",
+      "points": [
+        "Einziger angesetzter US-IPO der Woche ab 26. Oktober",
+        "Rund 4,2 Mrd. USD Marktwert zur Mitte der Spanne",
+        "Abhängig vom nigerianischen Konsum; Anker-Interesse bis 270 Mio. USD"
+      ],
+      "note": "Afrika-fokussierte Digitalbank- und Fintech-Plattform aus Nigeria (u. a. von SoftBank unterstützt) hat am 23. Oktober die Konditionen festgelegt: 16 Mio. American Depositary Shares (je 10 Stammaktien) zu 19–21 USD, rund 320 Mio. USD Erlös zur Mitte der Spanne und rund 4,2 Mrd. USD Marktwert; die Bepreisung ist laut Renaissance Capital für die Woche ab 26. Oktober geplant, ein genauer Tag ist nicht bestätigt. Zuvor war ein Volumen um 500 Mio. USD kursiert. Nicht bindendes Ankerinteresse über bis zu 270 Mio. USD, zusätzlich geplante Privatplatzierung über bis zu 200 Mio. USD an Standard Bank; Mehrzuteilungsoption über 2,4 Mio. ADS. Nach eigenen Angaben die Nr. 1 unter den Finanz-Apps in Afrika und Nahost (9,9% Marktanteil nach monatlich aktiven Nutzern im 1. Halbjahr 2026). Konsortium Citigroup, Deutsche Bank, Standard Bank und CICC."
+    },
+    {
+      "company": "Lycia Therapeutics",
+      "symbol": "LYCA",
+      "exchange": "Nasdaq",
+      "region": "US",
+      "ipo_date": "2026-10-23",
+      "price_range": "gepreist bei 18 USD (oberes Ende von 16–18 USD)",
+      "status": "trading",
+      "points": [
+        "Aufgestocktes IPO: 17,64 Mio. Aktien, rund 317,5 Mio. USD Erlös",
+        "Erster Kurs am 23. Oktober bei 28,55 USD",
+        "Hauptkandidat LCA-0061 gegen IgE bei Allergien"
+      ],
+      "note": "**Notiert seit 23. Oktober 2026 an der Nasdaq unter LYCA** — aufgestocktes Angebot von 17,64 Mio. Aktien (statt 14,7 Mio.) zum oberen Ende der Spanne bei 18 USD, rund 317,5 Mio. USD brutto; Abschluss am 26. Oktober erwartet, Mehrzuteilungsoption über 2,646 Mio. Aktien. Die Aktie eröffnete bei 28,55 USD; Angaben zum Tagesgewinn gehen je nach Quelle und Zeitpunkt auseinander. Biotech-Unternehmen mit Hauptkandidat LCA-0061 gegen IgE bei allergischen Erkrankungen; vorläufige Phase-1-Daten zeigten bei einer kleinen Zahl Probanden eine mittlere maximale IgE-Senkung um 96%. Konsortium Jefferies, TD Cowen, Evercore ISI und Guggenheim Securities."
+    },
+    {
+      "company": "N4 Group",
+      "symbol": "ALN4",
+      "exchange": "Euronext Growth Paris",
+      "region": "EU",
+      "ipo_date": "2026-10-26",
+      "price_range": "23,81 EUR je Aktie (Festpreis), bis 50 Mio. EUR",
+      "status": "priced",
+      "points": [
+        "Handelsstart an der Euronext Growth Paris für 26. Oktober geplant",
+        "Rund 267 Mio. EUR Marktwert zum Ausgabepreis",
+        "Gemeldete Nachfrage 33,1 Mio. EUR — unter dem Basisvolumen"
+      ],
+      "note": "Französische Fitness- und Sporternährungsgruppe aus Voiron (14 Marken, u. a. FitnessBoutique) mit Festpreis von 23,81 EUR je Aktie; geplantes Angebot rund 50 Mio. EUR (7 Mio. EUR Kapitalerhöhung, 43 Mio. EUR Verkauf bestehender Aktien), Marktwert zum Ausgabepreis rund 267 Mio. EUR. Laut ABC Bourse lag die Gesamtnachfrage bei 33,1 Mio. EUR, also unter dem Basisvolumen — das endgültige Platzierungsvolumen ist hier nicht bestätigt. Ankerinvestoren hatten rund 20,85 Mio. EUR zugesagt. Handelsstart unter ALN4 für 26. Oktober geplant. Umsatz im Geschäftsjahr bis 31. März 2026 rund 91,1 Mio. EUR (+31%), EBIT-Marge 17%. Netto-Primärerlös zu 70% für Produktionskapazität in Voiron, zu 30% für Internationalisierung."
+    },
+    {
+      "company": "Iambic Therapeutics",
+      "symbol": "IAM",
+      "exchange": "Nasdaq",
+      "region": "US",
+      "ipo_date": "2026-10-15",
+      "price_range": "gepreist bei 16 USD (Mitte von 15–17 USD), rund 150 Mio. USD",
+      "status": "trading",
+      "note": "**Notiert seit 15. Oktober 2026 an der Nasdaq Global Select Market unter IAM** — Bepreisung bei 16 USD je Aktie (Mitte der Spanne), Kurs am ersten Handelstag rund 16% höher bei 18,50 USD; Abschluss des Angebots am 16. Oktober erwartet. Biotech aus San Diego mit KI-gestützter Wirkstoffentwicklung (kleine Moleküle, Schwerpunkt Krebs), u. a. von Nvidia unterstützt; Erlös soll in drei frühe Krebs-Programme fließen. Seit Gründung über 460 Mio. USD privat eingesammelt. Nettoverlust rund 94,3 Mio. USD bei rund 18,3 Mio. USD Kooperationsumsatz in den zwölf Monaten bis 30. Juni 2026. Konsortium J.P. Morgan, Jefferies, BofA Securities und Citi; Mehrzuteilungsoption über 1,4 Mio. Aktien.",
+      "points": [
+        "Seit 15. Oktober an der Nasdaq, erster Handelstag rund +16%",
+        "KI-gestützte Wirkstoffentwicklung gegen Krebs, von Nvidia unterstützt"
+      ]
+    },
+    {
+      "company": "City Therapeutics",
+      "symbol": "CTY",
+      "exchange": "Nasdaq",
+      "region": "US",
+      "ipo_date": "2026-10-16",
+      "price_range": "gepreist bei 18 USD (Mitte von 17–19 USD), rund 200 Mio. USD",
+      "status": "trading",
+      "note": "**Notiert seit 16. Oktober 2026 an der Nasdaq Global Market unter CTY** — aufgestocktes Angebot von 11,1 Mio. Aktien zu 18 USD (rund 200 Mio. USD brutto), erster Kurs bei 23 USD; Abschluss am 19. Oktober erwartet, Mehrzuteilungsoption über rund 1,67 Mio. Aktien. RNAi-Biotech aus Cambridge, Massachusetts; Hauptprogramme CITY-FXI (thromboembolische Erkrankungen), CITY-RBP4 (Morbus Stargardt und weitere Netzhauterkrankungen) und CITY-TFR2 (Anämie bei chronischen Erkrankungen). Reine Kapitalerhöhung (nur neue Aktien). Konsortium Goldman Sachs, Jefferies, Stifel und Oppenheimer.",
+      "points": [
+        "Seit 16. Oktober an der Nasdaq, erster Kurs 23 USD",
+        "Aufgestocktes Angebot: 11,1 Mio. Aktien",
+        "RNAi-Biotech, Hauptprogramm CITY-FXI gegen Thromboembolien"
+      ]
+    },
+    {
+      "company": "Nscale",
+      "symbol": "NSCL",
+      "exchange": "NYSE (geplant)",
+      "region": "US",
+      "ipo_date": "",
+      "price_range": "Ziel 30–35 Mrd. USD Bewertung, bis 3 Mrd. USD — Spanne offen",
+      "status": "expected",
+      "note": "Londoner KI-Rechenzentrums-/Neocloud-Betreiber hat am 18. September 2026 die SEC-Registrierung für ein NYSE-Listing unter NSCL eingereicht; **Stand 26. Oktober weiterhin ohne Preisspanne und ohne Termin.** Laut Berichten (u. a. unter Berufung auf Bloomberg, Stand 18. Oktober) hält Nscale an einer Zielbewertung von 30–35 Mrd. USD fest, während einige Investoren auf 16–19 Mrd. USD drängen; das Unternehmen arbeite noch SEC-Kommentare ab und wolle danach mit dem Marketing beginnen. Laut einem internen Memo beziffert Nscale den Auftragsbestand auf über 100 Mrd. USD. Bloomberg hatte zuvor über Probleme am Rechenzentrum im norwegischen Narvik berichtet (Lecks im Kühlsystem, Genehmigungsstreit, Bauverzögerungen, Brand). Partnerschaften mit Nvidia, Microsoft und Anthropic — darunter ein mehrjähriger Compute-Deal mit Anthropic im Volumen von rund 45 Mrd. USD. Umsatz H1 2026 rund 140,6 Mio. USD bei einem Nettoverlust von rund 1,02 Mrd. USD. Konsortium u. a. Goldman Sachs, JPMorgan und Morgan Stanley.",
+      "points": [
+        "S-1 seit 18. September, Preisspanne weiter offen",
+        "Investoren drängen laut Berichten auf 16–19 Mrd. USD Bewertung",
+        "Marketing erst nach Klärung der SEC-Kommentare"
+      ]
+    },
+    {
+      "company": "SB Energy",
+      "symbol": "SBE",
+      "exchange": "Nasdaq (geplant)",
+      "region": "US",
+      "ipo_date": "",
+      "price_range": "Ziel 5–7 Mrd. USD Erlös, >50 Mrd. USD Bewertung — Spanne offen",
+      "status": "expected",
+      "note": "**Weiterhin ohne festen Termin (laut NYT frühestens Mitte/Ende Oktober 2026), Stand 26. Oktober ohne Preisspanne oder Starttermin.** Laut NYT/IFR wurde der Start von September verschoben, weil Banker bei der angepeilten Bewertung von über 50 Mrd. USD nicht genug Käufer fanden; eine Quelle von Investing.com betont dagegen, der Börsengang laufe nach Plan und ein September-Fenster sei nie bestätigt gewesen. Zielerlös laut Berichten 5–7 Mrd. USD, davon laut Bloomberg bis zu 500 Mio. USD in einer Japan-Tranche. Hauptsorge der Investoren: Ausführungsrisiko, da SB Energy noch kein Rechenzentrum in Betrieb genommen hat, während es einen Auftragsbestand von rund 439 Mrd. USD über rund 20 Jahre ab 2028 projiziert, größtenteils gebunden an das Ohio-Rechenzentrum für OpenAI. SoftBank-Tochter, geplante Notierung an der Nasdaq Global Select Market und Nasdaq Texas unter SBE. Nvidia hat eine Privatplatzierung von rund 1,5 Mrd. USD zugesagt.",
+      "points": [
+        "Stand 26. Oktober weiter ohne Preisspanne oder Starttermin",
+        "Noch kein Rechenzentrum in Betrieb, Auftragsbestand rund 439 Mrd. USD",
+        "Geplant an Nasdaq und Nasdaq Texas unter SBE"
+      ]
+    },
+    {
+      "company": "Westinghouse Electric",
+      "symbol": "—",
+      "exchange": "noch offen (USA)",
+      "region": "US",
+      "ipo_date": "",
+      "price_range": "Zielbewertung über 50 Mrd. USD (kursierend) — Spanne offen",
+      "status": "expected",
+      "note": "Vertrauliche S-1-Einreichung seit 31. Juli 2026; **Stand 26. Oktober noch keine öffentliche Registrierung gefunden** — angestrebt war sie laut Berichten für Oktober 2026. Bloomberg berichtete am 18. September von einer angestrebten Bewertung über 50 Mrd. USD, mehr als das Sechsfache des Kaufpreises von rund 7,9 Mrd. USD, den Cameco und Brookfield 2023 zahlten. Traditionsreicher Anbieter von Nukleartechnik und -dienstleistungen (Sitz Cranberry Township, Pennsylvania), im Besitz von Brookfield Renewable Partners (rund 51%) und Cameco (rund 49%). Vertrag mit der US-Regierung über den Bau von 8–10 Reaktoren, verbunden mit einer Option der Regierung auf einen 8%-Anteil. Lead-Banken Citigroup und Goldman Sachs, daneben CIBC, JPMorgan und RBC im Konsortium. Aktienzahl, Preisspanne und Börsenplatz weiterhin offen.",
+      "points": [
+        "Nur vertraulich eingereicht (31. Juli), öffentlicher S-1 steht aus",
+        "Öffentliche Einreichung war laut Bloomberg ab Oktober angepeilt",
+        "Eigentümer Brookfield (rund 51%) und Cameco (rund 49%)"
+      ]
+    },
+    {
+      "company": "KNDS",
+      "symbol": "—",
+      "exchange": "Euronext Paris / Xetra",
+      "region": "EU",
+      "ipo_date": "",
+      "price_range": "",
+      "status": "postponed",
+      "note": "VERSCHOBEN, Ausgang weiter offen: Das Anfang Juli (1. Juli) ausgesetzte Dual-Listing Paris/Frankfurt ist Stand 26. Oktober ohne neuen Termin. Laut einem Bloomberg-Bericht vom 5. Oktober (über französische Finanzmedien) verhandeln die deutschen Eigentümer über einen direkten Verkauf von bis zu 40% an den Bund, was einen Börsengang weiter verzögern dürfte; CEO Jean-Paul Alary hatte zuvor gesagt, ein Börsengang 2026 bleibe „noch möglich\", sofern die Marktbedingungen passen. Grund für die Verzögerung bleibt die schwache Kursentwicklung börsennotierter Rüstungswerte (u. a. Rheinmetall) und fehlende Nachfrage bei einer Zielbewertung um rund 12–12,5 Mrd. EUR. Deutsch-französischer Rüstungskonzern (Leopard 2, Caesar) mit Rekord-Auftragsbestand; geplant war eine Platzierung von rund 20% durch den französischen Staat und die Gründerfamilien-Holding Wegmann & Co.",
+      "points": [
+        "Börsengang seit 1. Juli ausgesetzt, kein neuer Termin",
+        "Laut Bloomberg (5.10.) Gespräche über Verkauf von bis zu 40% an den Bund",
+        "Geplant war Dual-Listing Paris/Frankfurt mit rund 20% Streubesitz"
+      ]
+    }
+  ]
+}
