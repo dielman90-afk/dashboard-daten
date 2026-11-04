@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "basis": {
     "benchmark": "SPY",
     "quelle": "Yahoo Finance Chart-API (dividendenbereinigt), serverseitig abgerufen",
@@ -11,24 +11,24 @@
     },
     "fenster_datum": {
       "kurz": [
-        "2026-10-26",
-        "2026-11-02"
+        "2026-10-27",
+        "2026-11-03"
       ],
       "mittel": [
-        "2026-10-02",
-        "2026-11-02"
+        "2026-10-05",
+        "2026-11-03"
       ],
       "lang": [
-        "2026-08-04",
-        "2026-11-02"
+        "2026-08-05",
+        "2026-11-03"
       ]
     },
     "handelstage": 251,
     "version": 1
   },
-  "risk_score": 1,
+  "risk_score": 2,
   "risk_label": "Ausgepraegt defensiv",
-  "risk_spread": -12.59,
+  "risk_spread": -11.08,
   "schlagzeile": {
     "richtung": "breit",
     "ticker": null,
@@ -38,184 +38,183 @@
     "gegenpol": {
       "ticker": "XLK",
       "name": "Technologie",
-      "rs_1m": -10.5
+      "rs_1m": -9.5
     }
   },
   "top_zufluss": [
-    "XLP",
     "XLV",
-    "XLB"
+    "XLP",
+    "XLU"
   ],
   "top_abfluss": [
     "XLK",
-    "XLC",
-    "XLE"
+    "XLC"
   ],
   "sektoren": [
-    {
-      "ticker": "XLP",
-      "name": "Basiskonsum",
-      "gruppe": "defensiv",
-      "rang": 1,
-      "score": 97,
-      "quadrant": "fuehrend",
-      "richtung": "steigend",
-      "rs_1w": 5.0,
-      "rs_1m": 15.1,
-      "rs_3m": 9.3,
-      "rendite_1m": 12.8,
-      "volumen_schub": 1.58,
-      "kaufdruck": 0.35
-    },
-    {
-      "ticker": "XLB",
-      "name": "Rohstoffe",
-      "gruppe": "ohne_wertung",
-      "rang": 2,
-      "score": 95,
-      "quadrant": "fuehrend",
-      "richtung": "steigend",
-      "rs_1w": 6.2,
-      "rs_1m": 12.1,
-      "rs_3m": 5.9,
-      "rendite_1m": 9.8,
-      "volumen_schub": 1.18,
-      "kaufdruck": 0.76
-    },
     {
       "ticker": "XLV",
       "name": "Gesundheit",
       "gruppe": "defensiv",
-      "rang": 3,
+      "rang": 1,
       "score": 95,
       "quadrant": "fuehrend",
       "richtung": "steigend",
       "rs_1w": 4.7,
-      "rs_1m": 13.4,
-      "rs_3m": 16.6,
-      "rendite_1m": 11.1,
-      "volumen_schub": 1.53,
-      "kaufdruck": 0.17
+      "rs_1m": 12.6,
+      "rs_3m": 14.3,
+      "rendite_1m": 9.9,
+      "volumen_schub": 1.6,
+      "kaufdruck": 0.07
+    },
+    {
+      "ticker": "XLP",
+      "name": "Basiskonsum",
+      "gruppe": "defensiv",
+      "rang": 2,
+      "score": 94,
+      "quadrant": "fuehrend",
+      "richtung": "steigend",
+      "rs_1w": 4.1,
+      "rs_1m": 12.4,
+      "rs_3m": 6.7,
+      "rendite_1m": 9.8,
+      "volumen_schub": 1.7,
+      "kaufdruck": 0.24
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Immobilien",
+      "gruppe": "ohne_wertung",
+      "rang": 3,
+      "score": 92,
+      "quadrant": "fuehrend",
+      "richtung": "steigend",
+      "rs_1w": 4.9,
+      "rs_1m": 10.0,
+      "rs_3m": -0.8,
+      "rendite_1m": 7.4,
+      "volumen_schub": 1.25,
+      "kaufdruck": 0.38
     },
     {
       "ticker": "XLU",
       "name": "Versorger",
       "gruppe": "defensiv",
       "rang": 4,
-      "score": 94,
+      "score": 92,
       "quadrant": "fuehrend",
       "richtung": "steigend",
-      "rs_1w": 4.4,
-      "rs_1m": 11.9,
-      "rs_3m": 2.0,
-      "rendite_1m": 9.6,
-      "volumen_schub": 0.92,
-      "kaufdruck": 0.26
+      "rs_1w": 3.3,
+      "rs_1m": 11.3,
+      "rs_3m": 1.9,
+      "rendite_1m": 8.6,
+      "volumen_schub": 0.99,
+      "kaufdruck": 0.15
     },
     {
       "ticker": "XLF",
       "name": "Finanzen",
       "gruppe": "zyklisch",
       "rang": 5,
-      "score": 92,
+      "score": 90,
       "quadrant": "fuehrend",
       "richtung": "steigend",
-      "rs_1w": 4.5,
-      "rs_1m": 9.9,
+      "rs_1w": 4.3,
+      "rs_1m": 8.8,
+      "rs_3m": 0.7,
+      "rendite_1m": 6.1,
+      "volumen_schub": 1.01,
+      "kaufdruck": 0.2
+    },
+    {
+      "ticker": "XLB",
+      "name": "Rohstoffe",
+      "gruppe": "ohne_wertung",
+      "rang": 6,
+      "score": 89,
+      "quadrant": "fuehrend",
+      "richtung": "steigend",
+      "rs_1w": 3.6,
+      "rs_1m": 8.9,
       "rs_3m": 2.1,
-      "rendite_1m": 7.6,
-      "volumen_schub": 0.99,
-      "kaufdruck": 0.29
+      "rendite_1m": 6.2,
+      "volumen_schub": 1.21,
+      "kaufdruck": 0.64
     },
     {
       "ticker": "XLY",
       "name": "Zyklischer Konsum",
       "gruppe": "zyklisch",
-      "rang": 6,
-      "score": 92,
-      "quadrant": "fuehrend",
-      "richtung": "steigend",
-      "rs_1w": 5.1,
-      "rs_1m": 9.7,
-      "rs_3m": 2.4,
-      "rendite_1m": 7.4,
-      "volumen_schub": 1.27,
-      "kaufdruck": 0.14
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Immobilien",
-      "gruppe": "ohne_wertung",
       "rang": 7,
-      "score": 90,
+      "score": 89,
       "quadrant": "fuehrend",
       "richtung": "steigend",
-      "rs_1w": 3.7,
-      "rs_1m": 9.2,
-      "rs_3m": -0.3,
-      "rendite_1m": 6.9,
-      "volumen_schub": 1.26,
-      "kaufdruck": 0.28
+      "rs_1w": 3.6,
+      "rs_1m": 8.9,
+      "rs_3m": 0.9,
+      "rendite_1m": 6.3,
+      "volumen_schub": 1.38,
+      "kaufdruck": 0.03
     },
     {
       "ticker": "XLE",
       "name": "Energie",
       "gruppe": "ohne_wertung",
       "rang": 8,
-      "score": 80,
-      "quadrant": "schwaechelnd",
-      "richtung": "fallend",
-      "rs_1w": -1.7,
-      "rs_1m": 9.3,
-      "rs_3m": 17.9,
-      "rendite_1m": 7.1,
+      "score": 79,
+      "quadrant": "fuehrend",
+      "richtung": "seitwaerts",
+      "rs_1w": -0.3,
+      "rs_1m": 7.7,
+      "rs_3m": 18.8,
+      "rendite_1m": 5.1,
       "volumen_schub": 1.08,
-      "kaufdruck": 0.3
+      "kaufdruck": 0.21
     },
     {
       "ticker": "XLI",
       "name": "Industrie",
       "gruppe": "zyklisch",
       "rang": 9,
-      "score": 71,
+      "score": 77,
       "quadrant": "fuehrend",
       "richtung": "steigend",
-      "rs_1w": 3.4,
-      "rs_1m": 2.1,
-      "rs_3m": -6.5,
-      "rendite_1m": -0.1,
-      "volumen_schub": 1.18,
-      "kaufdruck": 0.09
+      "rs_1w": 4.0,
+      "rs_1m": 3.4,
+      "rs_3m": -6.1,
+      "rendite_1m": 0.7,
+      "volumen_schub": 1.26,
+      "kaufdruck": 0.11
     },
     {
       "ticker": "XLC",
       "name": "Kommunikation",
       "gruppe": "zyklisch",
       "rang": 10,
-      "score": 19,
+      "score": 24,
       "quadrant": "abfluss",
-      "richtung": "fallend",
-      "rs_1w": -1.7,
-      "rs_1m": -6.8,
-      "rs_3m": -8.0,
+      "richtung": "seitwaerts",
+      "rs_1w": -0.1,
+      "rs_1m": -6.5,
+      "rs_3m": -6.4,
       "rendite_1m": -9.1,
-      "volumen_schub": 1.53,
-      "kaufdruck": -0.28
+      "volumen_schub": 1.69,
+      "kaufdruck": -0.22
     },
     {
       "ticker": "XLK",
       "name": "Technologie",
       "gruppe": "zyklisch",
       "rang": 11,
-      "score": 7,
+      "score": 8,
       "quadrant": "abfluss",
       "richtung": "fallend",
-      "rs_1w": -4.8,
-      "rs_1m": -10.5,
-      "rs_3m": -4.4,
-      "rendite_1m": -12.8,
-      "volumen_schub": 1.5,
-      "kaufdruck": -0.32
+      "rs_1w": -4.9,
+      "rs_1m": -9.5,
+      "rs_3m": -3.2,
+      "rendite_1m": -12.2,
+      "volumen_schub": 1.57,
+      "kaufdruck": -0.3
     }
   ]
 }
